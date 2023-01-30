@@ -1,0 +1,213 @@
+{
+  "reservations": [
+    {
+      "arrivalDate": "2023-01-26T11:39:13.075Z",
+      "departureDate": "2023-01-26T11:39:13.075Z",
+      "roomSize": "Business Suite",
+      "roomQuantity": "5",
+      "firstName": "john67",
+      "lastName": "dev",
+      "email": "joh@gmail.com",
+      "phone": "1231231232112",
+      "streetName": "asda",
+      "streetNumber": "123412",
+      "zipCode": "1233123",
+      "state": "up",
+      "city": "lucknow",
+      "id": 5,
+      "extras": [
+        {
+          "label": "Breakfast",
+          "value": "Breakfast"
+        },
+        {
+          "label": "Tvs",
+          "value": "Tvs"
+        }
+      ],
+      "tags": [
+        {
+          "label": "Tvs",
+          "value": "Tvs"
+        }
+      ],
+      "reminder": true,
+      "newsletter": true,
+      "confirm": true,
+      "payment": "cash",
+      "addressLocation": {
+        "zipCode": "1233123",
+        "state": "up",
+        "city": "lucknow"
+      },
+      "addressStreet": {
+        "streetName": "asda",
+        "streetNumber": "123412"
+      },
+      "room": {
+        "roomQuantity": "5",
+        "roomSize": "Business Suite"
+      },
+      "stay": {
+        "arrivalDate": "2023-01-26T11:39:13.075Z",
+        "departureDate": "2023-01-26T11:39:13.075Z"
+      }
+    },
+    {
+      "arrivalDate": "2023-01-26T12:15:30.151Z",
+      "departureDate": "2023-01-26T12:15:30.151Z",
+      "roomSize": "Business Suite",
+      "roomQuantity": "5",
+      "firstName": "asdffs",
+      "lastName": "sdfds",
+      "email": "asdf@gmail.com",
+      "phone": "123132312231",
+      "streetName": "asdas",
+      "streetNumber": "12312",
+      "zipCode": "12312",
+      "state": "asda",
+      "city": "asdasd",
+      "extras": [
+        {
+          "label": "Breakfast",
+          "value": "Breakfast"
+        },
+        {
+          "label": "Tvs",
+          "value": "Tvs"
+        }
+      ],
+      "tags": [
+        {
+          "label": "Breakfast",
+          "value": "Breakfast"
+        },
+        {
+          "label": "Tvs",
+          "value": "Tvs"
+        }
+      ],
+      "reminder": true,
+      "newsletter": true,
+      "confirm": true,
+      "addressLocation": {
+        "zipCode": "12312",
+        "state": "asda",
+        "city": "asdasd"
+      },
+      "addressStreet": {
+        "streetName": "asdas",
+        "streetNumber": "12312"
+      },
+      "room": {
+        "roomQuantity": "5",
+        "roomSize": "Business Suite"
+      },
+      "stay": {
+        "arrivalDate": "2023-01-26T12:15:30.151Z",
+        "departureDate": "2023-01-26T12:15:30.151Z"
+      },
+      "id": 6
+    },
+    {
+      "arrivalDate": "2023-01-26T12:16:36.889Z",
+      "departureDate": "2023-01-26T12:16:36.889Z",
+      "roomSize": "Business Suite",
+      "roomQuantity": "5",
+      "firstName": "asdfs",
+      "lastName": "sdfds",
+      "email": "dsa@gmail.com",
+      "phone": "12312312",
+      "streetName": "awdas2134",
+      "streetNumber": "12412",
+      "zipCode": "12321",
+      "state": "sdfd",
+      "city": "asdas",
+      "extras": [
+        {
+          "label": "Breakfast",
+          "value": "Breakfast"
+        }
+      ],
+      "tags": [
+        {
+          "label": "Breakfast",
+          "value": "Breakfast"
+        }
+      ],
+      "reminder": true,
+      "newsletter": true,
+      "confirm": true,
+      "addressLocation": {
+        "zipCode": "12321",
+        "state": "sdfd",
+        "city": "asdas"
+      },
+      "addressStreet": {
+        "streetName": "awdas2134",
+        "streetNumber": "12412"
+      },
+      "room": {
+        "roomQuantity": "5",
+        "roomSize": "Business Suite"
+      },
+      "stay": {
+        "arrivalDate": "2023-01-26T12:16:36.889Z",
+        "departureDate": "2023-01-26T12:16:36.889Z"
+      },
+      "id": 7
+    },
+    {
+      "arrivalDate": "2023-01-26T15:27:46.561Z",
+      "departureDate": "2023-01-27T15:27:46.000Z",
+      "roomSize": "Business Suite",
+      "roomQuantity": "2",
+      "firstName": "Hari N",
+      "lastName": "yadav",
+      "email": "hari@gmail.com",
+      "phone": "+919452708644",
+      "streetName": "janki",
+      "streetNumber": "23",
+      "zipCode": "233223",
+      "state": "Up",
+      "city": "Lucknow",
+      "id": 14,
+      "extras": [
+        {
+          "label": "Breakfast",
+          "value": "Breakfast"
+        },
+        {
+          "label": "Tvs",
+          "value": "Tvs"
+        }
+      ],
+      "tags": [
+        {
+          "label": "WiFi",
+          "value": "WiFi"
+        }
+      ],
+      "reminder": true,
+      "newsletter": true,
+      "confirm": true,
+      "addressLocation": {
+        "zipCode": "233223",
+        "state": "Up",
+        "city": "Lucknow"
+      },
+      "addressStreet": {
+        "streetName": "janki",
+        "streetNumber": "23"
+      },
+      "room": {
+        "roomQuantity": "2",
+        "roomSize": "Business Suite"
+      },
+      "stay": {
+        "arrivalDate": "2023-01-26T15:27:46.561Z",
+        "departureDate": "2023-01-27T15:27:46.000Z"
+      }
+    }
+  ]
+}

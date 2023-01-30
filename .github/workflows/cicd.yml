@@ -1,0 +1,17 @@
+name: Reservation System
+on:
+  push:
+    branches: main
+  pull_request:
+    branches: main
+jobs:
+  build:
+    runs-on: 'ubuntu-latest'
+    strategy:
+       matrix:
+          node-version: [16]
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn install
+      - run: yarn run build
+      - run: yarn test --passWithNoTests
